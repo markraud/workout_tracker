@@ -28,6 +28,8 @@ Application is deployed to https://damp-lowlands-21335.herokuapp.com/exercise?id
 
 Users can access the site and use the dropdown menu to enter in the type of workout. Then they can enter in additional information about their workout including things like name, duration, weight, reps and sets. Additional exercises can be added to the workout using the "add exercise" button and you can finish the workout by clicking on "Complete". Users can view totaled information about their workouts by clicking on the "Dashboard" link.
 
+![Screenshot](./assets/workout-tracker.jpg "Screenshot")
+
 ## License
 
 This application is covered by the MIT license. Click the link for more information.
