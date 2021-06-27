@@ -21,7 +21,7 @@ async function initWorkout() {
 
 function tallyExercises(exercises) {
   const tallied = exercises.reduce((acc, curr) => {
-    // I think this is where the code that Maria slacked out needs to go
+    // I think this is where the code that Maria slacked out needs to go(listed in class activities)
     acc.totalDuration = (acc.totalDuration || 0) + curr.totalDuration
     if (curr.type === "resistance") {
       acc.totalWeight = (acc.totalWeight || 0) + curr.weight;
